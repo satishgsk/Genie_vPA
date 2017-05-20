@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"><b><i>Genie</i></b></string>
+    <string name="sample_message">Genie: I\'m history! No, I\'m mythology! Nah, I don\'t care what I am. I\'m free-hee!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_exit">Exit</string>
+    <string name="title_activity_single_view">Message View</string>
+</resources>
